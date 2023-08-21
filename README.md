@@ -25,6 +25,7 @@ Anomaly Detection: The goal is to identify rare instances that deviate significa
 In unsupervised learning, the model tries to discover the underlying structure of the data without explicit guidance, and the evaluation can be more challenging since there are no predefined target labels to compare against.
 
 Supervised learning
+
 There are several machine learning algorithms in the category of supervised learning. Each algorithm has its own characteristics and is suitable for different types of problems. Here are some commonly used supervised learning algorithms:
 
 Linear Regression: A regression algorithm used for predicting a continuous numeric value. It fits a linear relationship between input features and the target variable.
@@ -48,6 +49,7 @@ Gradient Boosting Algorithms: Algorithms like XGBoost, LightGBM, and CatBoost cr
 These are just a few examples of supervised learning algorithms. The choice of algorithm depends on factors like the nature of the problem, the amount of available data, the type of features, and the desired level of interpretability and performance. 
 
 Unsupervised learning
+
 There are several machine learning algorithms that belong to the category of unsupervised learning. These algorithms are used to discover patterns, relationships, and structures within unlabeled data. Here are some commonly used unsupervised learning algorithms:
 
 K-Means Clustering: K-Means is a popular clustering algorithm that groups similar data points into clusters. It aims to minimize the distance between data points within a cluster and maximize the distance between clusters.
